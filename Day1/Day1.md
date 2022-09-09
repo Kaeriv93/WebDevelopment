@@ -5,3 +5,4 @@ Hello Developers! I will be walking you all through how to set up your environme
 
 ### Downloading Visual Code
 **[Visual Code]**(https://code.visualstudio.com/)
+**[Visual Code]**(https://code.visualstudio.com/)
