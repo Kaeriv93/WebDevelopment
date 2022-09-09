@@ -40,4 +40,4 @@ Please sign up for an account [here](https://github.com/).
 Github is a place where you will be able to store all of your projects. This will be your online presence and I will be hosting videos and tutorials, moving forward! In the coming days, I will be leading you all on how to clone everything into your machine so that you can follow along!
 
 ## Finished?
-If you ever any questions, please feel free to dm me on discord and I will be able to help debug anyone along the way. But, once we're all set up please click here and let's [continue]()
+If you ever any questions, please feel free to dm me on discord and I will be able to help debug anyone along the way. But, once we're all set up please click here and let's [continue](https://github.com/Kaeriv93/WebDevelopment/blob/main/Day1/WebDevelopment.md)
