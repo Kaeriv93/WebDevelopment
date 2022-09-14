@@ -44,4 +44,4 @@ What does that mean? Take for example that what if we wanted things to appear on
 I will better explain it in the upcoming videos a bit more as we go along, but for now let's practice playing around with HTML and code our own site!
 
 
-After we play around lets continue [here]()
+After we play around lets continue [here](https://github.com/Kaeriv93/WebDevelopment/blob/main/Day1/Intro-To-CSS.md)
