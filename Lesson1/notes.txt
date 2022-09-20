@@ -1,0 +1,19 @@
+What is a website?
+- A website contains html, css, Javascript
+
+What is HTML?
+- Hypertext Markup Language
+- <h1> <img> <section> <a>
+
+What is CSS?
+- Cascade Style Sheets
+- Background color
+- Font-size
+- Responsive
+
+What is Javascript?
+- A programming language that works on the browser
+- gives behavior to the website
+- variables
+- var, let, const 
+- // var is deprecated, however you will still see it in production code sometimes;
